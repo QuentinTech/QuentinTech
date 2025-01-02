@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Hello, I'm Quentin,</strong> Engineer specialized in DataScience and Artificial Intelligence, from <b>Paris - France</b> <img src="img/france.png" width="14"/>.
+  <strong>Hello </strong>👋 I'm <strong> Quentin, Engineer</strong> specialized in <strong>DataScience</strong> and <strong>Artificial Intelligence</strong>, from <b>Paris - France</b> <img src="img/france.png" width="14"/>.
 </p>
 
 <div align="center">
@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/quentin-barth%C3%A9l%C3%A9my-585534197/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
+<br>
 <br>
 <br>
 
@@ -24,9 +25,9 @@
 
 <br>
 
-- 🔭 &nbsp; I’m currently working on **AI projects**
-- 🌱 &nbsp; I’m currently learning C++
+- 🔭 &nbsp; I’m currently working on **AI projects and Data Migration**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/QuentinTech?tab=repositories)
+- 🌱 &nbsp; I’m currently learning C++
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/quentin-barth%C3%A9l%C3%A9my-585534197/)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels, or sport.
@@ -37,10 +38,10 @@
 
 ### 🔨 Languages and Tools:
 
-<a href="" target="_blank"> <img align="left" src="img/cpp.png" alt="pytorch" height="42px"/> </a>
+<a href="" target="_blank"> <img align="left" src="img/cpp.png" alt="C++" height="42px"/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="40px" src="img/python.png"></a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="" target="_blank"><img align="left" alt="Django" height ="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"></a>
 <a href="" target="_blank"><img align="left" alt="Flask" height ="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
