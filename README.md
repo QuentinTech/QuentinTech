@@ -38,15 +38,15 @@
 
 ### 🔨 Languages and Tools:
 
-<a href="" target="_blank"> <img align="left" src="img/cpp.png" alt="C++" height="42px"/> </a>
+<a href="https://cplusplus.com/" target="_blank"> <img align="left" src="img/cpp.png" alt="C++" height="42px"/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="40px" src="img/python.png"></a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
-<a href="" target="_blank"><img align="left" alt="Django" height ="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"></a>
-<a href="" target="_blank"><img align="left" alt="Flask" height ="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" height ="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"></a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img align="left" alt="Flask" height ="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="" target="_blank"> <img align="left" alt="HTML5" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> </a>
-<a href="" target="_blank"> <img align="left" alt="CSS3" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> </a>
+<img align="left" alt="HTML5" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="left" alt="CSS3" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> </a>
 <a href="" target="_blank"> <img align="left" alt="Flutter" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
