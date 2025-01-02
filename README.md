@@ -13,7 +13,7 @@
 
 <h3 align="center">Open source projects</h3>
 
-<div style="margin-left: auto; margin-right: auto; width: 100%">
+<div style="margin-left: auto; margin-right: auto; width: 80%">
   <table>
     <thead>
       <tr>
