@@ -19,7 +19,7 @@
 <br>
 
 
-<img align="right" alt="GIF" src="gif/techstack.gif" width="320px" />
+<img align="right" alt="GIF" src="gif/techstack.gif" width="300px" />
   
 ### 🧐 More About Me:
 
