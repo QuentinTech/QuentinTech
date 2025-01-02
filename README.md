@@ -13,13 +13,13 @@
 
 <h3 align="center">Open source projects</h3>
 
-<div style="margin-left: auto; margin-right: auto; width: 72%">
+<div style="margin-left: auto; margin-right: auto; width: 100%">
   <table>
     <thead>
       <tr>
-        <th width="30%">🎁 Projects</th>
+        <th width="35%">🎁 Projects</th>
         <th width="25%">⭐ Main language</th>
-        <th>📚 Description</th>
+        <th width="40%">📚 Description</th>
       </tr>
     </thead>
     <tbody>
